@@ -4,7 +4,7 @@ My stupid idea for a screensaver for MM
 
 ## Examples
 
-![](pix/1.png)
+![](images/1.gif)
 
 ## Installation
 
