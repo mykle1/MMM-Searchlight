@@ -4,6 +4,8 @@ My stupid idea for a screensaver for MM
 
 ## Examples
 
+* my gif recorder is pretty bad. The animation is fluid on my dev machine.
+
 ![](images/1.gif)
 
 ## Installation
